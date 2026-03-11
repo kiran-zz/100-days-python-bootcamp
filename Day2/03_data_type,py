@@ -1,0 +1,18 @@
+num_char = len(input("what is your name \n"))
+
+# print(type(num_char))
+
+# Type casting or type conversion is a method to change datatypes
+# and declare new variable
+
+new_num_char = str(num_char)
+print("Your name has "+ new_num_char +" charcters")
+
+# a = str(1234)
+# a = float(1234)
+# a = int("111")
+
+# print(type(a))
+
+# print(70 + float("100.5"))
+# print(str(70) + str(100))
